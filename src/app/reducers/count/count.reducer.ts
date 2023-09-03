@@ -1,5 +1,4 @@
-import { State } from "@ngrx/store";
-import { CountActions, countActionsType } from "src/app/reducers/count/count.actions";
+import { CountActions, countActionsType } from "./count.actions";
 
 export const countNode = 'count';
 

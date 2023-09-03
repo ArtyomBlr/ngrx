@@ -1,6 +1,5 @@
 import { Action } from "@ngrx/store";
 
-
 export enum countActionsType {
   increase = '[COUNT] increase',
   decrease = '[COUNT] decrease',
